@@ -1,0 +1,24 @@
+Mr. Johnson teaches English in room 233 to 11th grade students.
+Ms. Smith teaches English in room 101 to 12th grade students.
+Mrs. Brown teaches Math in room 102 to 12th grade students.
+Ms. tom teaches Math in room 130 to 12th grade students.
+Mrs. Williams teaches Science in room 305 to 12th grade students.
+Mr. Rob teaches Science in room 401 to 12th grade students.
+
+mathClassroom1 and mathClassroom2 are the same
+
+Number of students in each classroom:
+English has 19 students.
+English has 19 students.
+Math has 15 students.
+Math has 15 students.
+Science has 50 students.
+Science has 50 students.
+
+Compare based on number of students:
+Mrs. Williams teaches Science and has 50 students.
+Mr. Rob teaches Science and has 50 students.
+Mr. Johnson teaches English and has 19 students.
+Ms. Smith teaches English and has 19 students.
+Mrs. Brown teaches Math and has 15 students.
+Ms. tom teaches Math and has 15 students.
